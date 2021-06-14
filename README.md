@@ -1,5 +1,5 @@
 # DC programming and DCA for Secure Guarantee with Null Space Beamforming in Two-Way Relay Networks
-Coded by [Thuy-Chung Luong](https://github.com/ChungLuongThuy), Nguyen The Duy at FPT university 
+Coded by chungtit, Nguyen The Duy at FPT university 
 # Introduction
 Physical layer security technique takes advantage the physical characteristic of wireless channel to guarantee secrecy for message being transmitted. In [A. Wyner, 1975](https://wiki.epfl.ch/edicpublic/documents/Candidacy%20exam/Wiretap_Wyner.pdf), Wyner developed a new direction for creating secure links without relying on the privacy cryptograph. The notation ”secrecy capacity” was defined as the maximum rate received at the legitimate receiver, which still kept the eavesdropper completely ignorant of the transmitted messages. Therefore,
 this method would help reduce the probability of interception.
