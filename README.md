@@ -13,4 +13,4 @@ There are many intermediate variables in these two papers. Some intermediate var
 
 **Keywords:** Two-way relay network, transmitted power, secrecy sum rate (SSR), [Difference of Convex Algorithm](http://www.lita.univ-lorraine.fr/~lethi/index.php/en/dca.html).
 
-Consider the secrecy sum rate achieved by approaches with set of power Pt = [30 : 1 : 40] (dBW), the number of relays N ∈ {4, 6, 8}, P1 = P2 = 𝐏𝒕/𝟒(dBW),𝝈𝟏𝟐 = 𝝈𝟐𝟐 = 𝟏𝐝𝐁 . Each pair of Pt and N we use 10 sets of randomized data, then getting the average.
+Consider the secrecy sum rate achieved by approaches with set of power Pt = [30 : 1 : 40] (dBW), the number of relays N ∈ {4, 6, 8}. Each pair of Pt and N we use 10 sets of randomized data, then getting the average.
