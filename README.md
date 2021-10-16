@@ -12,5 +12,3 @@ Second, `ssrm_algorithm.py`was implemented by following the Secrecy Sum Rate Max
 There are many intermediate variables in these two papers. Some intermediate variables are kept names exactly the same as papers in this code. 
 
 **Keywords:** Two-way relay network, transmitted power, secrecy sum rate (SSR), [Difference of Convex Algorithm](http://www.lita.univ-lorraine.fr/~lethi/index.php/en/dca.html).
-
-Consider the secrecy sum rate achieved by approaches with set of power Pt = [30 : 1 : 40] (dBW), the number of relays N ∈ {4, 6, 8}. Each pair of Pt and N we use 10 sets of randomized data, then getting the average.
