@@ -7,7 +7,7 @@ This code implements 2 algorithms:
 
 First,`dca_algorithm.py` was implemented by following the DCA scheme in paper [DC programming and DCA for Secure Guarantee with Null Space Beamforming in Two-Way Relay Networks](https://dl.acm.org/doi/10.1145/3316615.3316687). DCA constitutes the backbone of smooth/nonsmooth nonconvex programming and global optimization. Thus, it is not fast, but it is more accurate than another algorithm in `ssrm_algorithm.py`.
 
-Second, `ssrm_algorithm.py`was implemented by following the Secrecy Sum Rate Maximization (SSRM) problem in paper [Algorithms for Secrecy Guarantee With Null Space Beamforming in Two-Way Relay Networks](https://ieeexplore.ieee.org/abstract/document/6730702). It is very fast and efficient.
+Second, `ssrm_algorithm.py`was implemented by following the Secrecy Sum Rate Maximization (SSRM) problem in paper [Algorithms for Secrecy Guarantee With Null Space Beamforming in Two-Way Relay Networks](https://ieeexplore.ieee.org/abstract/document/6730702).
 
 There are many intermediate variables in these two papers. Some intermediate variables are kept names exactly the same as papers in this code. 
 
